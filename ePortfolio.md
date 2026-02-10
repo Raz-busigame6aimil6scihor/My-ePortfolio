@@ -5,7 +5,7 @@ Hello I am Fazil Vural and this page has a link to my other ePortfolio in Google
 
 [Link to my ePortfolio on Google Sites](URL)
 
-Down here are the projects I made from coding projects to Github
+Down here are the projects I made from coding projects to Github.
 
 *
 *
